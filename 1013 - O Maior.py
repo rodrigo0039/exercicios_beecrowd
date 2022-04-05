@@ -1,0 +1,6 @@
+num = input() .split()
+a = int(num[0])
+b = int(num[1])
+c = int(num[2])
+max = max(a, b, c)
+print(f'{max} eh o maior')
